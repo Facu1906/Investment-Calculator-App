@@ -2,9 +2,9 @@
 
 ## Investment-Calculator-App
 
-## URL: https://dainty-moonbeam-077dbd.netlify.app
+### URL: https://dainty-moonbeam-077dbd.netlify.app
 
-### In this project I worked with: 
+#### In this project I worked with: 
 
 - Splitting App into Components
 - Handling Events
